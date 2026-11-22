@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6b02999ad9a038a0f8e28244"
+  },
+  "bookid": "uX3MM0vn",
+  "title": "Wings of Fire",
+  "author": "A.P.J Abdul Kalam ",
+  "publisher": "Universities Press ",
+  "publicationYear": "1999",
+  "price": 300,
+  "quantity": "15",
+  "language": "English ",
+  "_class": "com.book.inventory.app.domain.Book"
+},
+{
+  "_id": {
+    "$oid": "6b029f2dd9a038a0f8e2824a"
+  },
+  "bookid": "sLF1K0Vp",
+  "title": "Java: The Complete Reference ",
+  "author": "Herbert Schildt",
+  "publisher": "McGraw Hill",
+  "publicationYear": "2021",
+  "price": 850,
+  "quantity": "5",
+  "language": "English ",
+  "_class": "com.book.inventory.app.domain.Book"
+},
+{
+  "_id": {
+    "$oid": "6b029ff8d9a038a0f8e2824c"
+  },
+  "bookid": "cwGwwx0r",
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "publisher": "HarperOne ",
+  "publicationYear": "1988",
+  "price": 400,
+  "quantity": "15",
+  "language": "English ",
+  "_class": "com.book.inventory.app.domain.Book"
+}]
